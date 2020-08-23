@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FullCircle</string>
+
+    <string name="full_circle">Full Circle</string>
+    <string name="description">Welcome to Full Circle. The best way to become a recycling champion!</string>
+    <string name="login_text">Login or register with your phone number</string>
+    <string name="hint_phone_number">Enter your phone number</string>
+    <string name="proceed">Proceed</string>
+</resources>
